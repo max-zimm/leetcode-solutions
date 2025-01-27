@@ -1,0 +1,1 @@
+Just implement the functions. For the minstack you just always append a value getting pushed on the stack. i.e. if 1 gets added, then 4 , 6, 0... the min stack would look like 1 1 1 1 0

@@ -1,0 +1,1 @@
+start with an empty dict. Then, iterate over nums and for each element calculate difference = target - nums. If this difference exists in the hashmap add return [hashmap[differnce], i] else hashmap[n] = i. 

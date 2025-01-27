@@ -1,0 +1,1 @@
+Use left right pointer after "cleaning" string to check if the char at the start matches the char at the end. To clean, use s.lower(), s.replace(" ", ""), and s.isalnum(char)

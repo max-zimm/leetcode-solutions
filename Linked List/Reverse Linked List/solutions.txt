@@ -1,0 +1,1 @@
+Use a prev and curr code. Set prev to none and curr to head. Start a loop. Save the next node then set the curr.next to prev. Set prev to curr and curr to the saved temporary next node.

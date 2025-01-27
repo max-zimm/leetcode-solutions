@@ -1,0 +1,3 @@
+ count = [0] * 26
+ count[ord(s[i]) - ord('a')] += 1
+ count[ord(t[i]) - ord('a')] -= 1        use the ord keyword to count the number of chars using their ascii values. The ord(char).lower() - ord('a') bounds the index placement to always be 26. Also dont forget d = {}    d[newKey] = 1+ d.get(d[newKey], 0)

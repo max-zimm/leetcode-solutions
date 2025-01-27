@@ -1,0 +1,1 @@
+Use a fast and slow pointer. While fast make fast increment twice as fast as low. if theres is a cycle they will overlap. 
