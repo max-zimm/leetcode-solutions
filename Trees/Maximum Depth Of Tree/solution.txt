@@ -1,0 +1,1 @@
+simple dfs. Return max(1+dfs(right), 1+dfs(left))
